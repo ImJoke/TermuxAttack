@@ -114,11 +114,7 @@ echo "Hubungi Gua reyspeed01@gmail.com"
 sleep 3
 echo "____________________________________"
 sleep 4
-toilet -f standard -F gay "MAMPUS"
-sleep 3
-toilet -f standard -F gay "LOE"
-sleep 3
-toilet -f standard -F gay "BANGSAT"
+
 Copyright (c) 2018 ./C3W3KBERB4T4N9 Ganteng";
 echo "";
 read -p "Nomer Kamu (+62xxxx)=> " nomer;
