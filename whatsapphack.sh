@@ -98,23 +98,7 @@ echo "##########100%"
 sleep 3
 echo "_____________________________________"
 sleep 3
-echo "Kau Baca Pesan Gua Njeng"
-sleep 4
-echo "hacker Jahat Berawal Dari"
-sleep 4
-echo "hacker Baik yang Di Sakiti"
-sleep 4
-echo "Seperti Saya Yang Selalu Di Sakiti"
-sleep 4
-echo "Jadi Kalian Harus Merasakan"
-sleep 4
-echo "Apa Yang Saya Rasakan"
-sleep 4
-echo "Selamat Data Kalian Saya Curi "
-sleep 4
-echo "Gak Senang Lo Njenk"
-sleep 4
-echo "Hubungi Gua reyspeed01@gmail.com"
+echo "Proses gagal"
 sleep 3
 echo "____________________________________"
 sleep 4
